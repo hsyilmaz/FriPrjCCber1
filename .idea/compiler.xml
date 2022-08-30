@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="CucumberProje1" />
         <module name="FrPrjCucumber" />
+        <module name="FriPrjCCber1" />
       </profile>
     </annotationProcessing>
   </component>
